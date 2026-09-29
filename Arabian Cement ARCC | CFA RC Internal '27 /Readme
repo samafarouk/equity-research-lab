@@ -1,39 +1,45 @@
-# Equity Research Report: Arabian Cement Company (ARCC.CA)
-Last Updated: September 2026
+# Equity Research Report: Arabian Cement Company (EGX: ARCC)
 
-[EGX Ticker](https://camo.githubusercontent.com/ee91537ca6cdad6fc47cad09b84463a76adac9c37915a0d44ae3e400012cfeaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4547582d415243432e43412d626c75652e737667) [Recommendation](https://camo.githubusercontent.com/6830dcf48ad49db40514372592e18b72ebfc17b2ed24cbd48d25f93e35b690fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265636f6d6d656e646174696f6e2d4255592d627269676874677265656e2e737667) [Target Price](https://camo.githubusercontent.com/c212d8e3aefa434eb2cbf2ca0f3ec623b824b6370ef8ef70d5c62dfb1b4250ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461726765745f50726963652d4547505f3132342d737563636573732e737667) [Upside](https://camo.githubusercontent.com/62611919fdf5dff6485503761027200db493dfa17ef04eee45bf406074abd7ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5570736964652d2b36392532352d677265656e2e737667) [CFA Institute Research Challenge](https://camo.githubusercontent.com/9f8d3ad11357bbe8b050f9f27639a3816b1b4b74dd033cf54a04a9296b2caa83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4346415f496e737469747574652d52657365617263685f4368616c6c656e67652d676f6c642e737667)
-
-## Executive Summary
-
-This repository contains the comprehensive equity research coverage and financial valuation of **Arabian Cement Company (ARCC.CA)**, prepared as part of the **CFA Institute Research Challenge**.
-
-We initiate coverage on ARCC with a **BUY** recommendation and a **12-month target price of EGP 124 per share**, representing a **69% upside** from the current share price of EGP 73.45.
-
-Our investment thesis centers on ARCC's earnings recovery through improving utilization, cost efficiency, pricing normalization, and export flexibility. The analysis combines bottom-up financial modelling, industry analysis, DCF valuation, relative valuation, sensitivity analysis, and an ESG integration scenario.
+![EGX Ticker](https://img.shields.io/badge/EGX-ARCC.CA-blue.svg)
+![Recommendation](https://img.shields.io/badge/Recommendation-BUY-brightgreen.svg)
+![Target Price](https://img.shields.io/badge/Target_Price-EGP_124.00-success.svg)
+![Upside](https://img.shields.io/badge/Upside-+69%25-green.svg)
+![Valuation Methodology](https://img.shields.io/badge/Methodology-DCF_%7C_P%2FE_%7C_EV%2FEBITDA-orange.svg)
+![ESG Rating](https://img.shields.io/badge/MSCI_ESG_IAS-AA_(7.2%2F10)-teal.svg)
+![CFA Institute Research Challenge](https://img.shields.io/badge/CFA_Institute-Research_Challenge-gold.svg)
 
 ---
 
-## Key Investment Thesis & Pillars
+## Executive Summary
+
+This repository hosts the comprehensive equity research coverage, three-statement financial model, econometric elasticity analysis, and integrated ESG valuation scenario for **Arabian Cement Company (ARCC.CA)**. The research was developed as part of the **CFA Institute Research Challenge**.
+
+We initiate coverage on Arabian Cement Company with a **BUY** recommendation and a 12-month blended target price of **EGP 124.00 per share**, offering a **+69% upside** against the current market price of **EGP 73.45** (as of September 26, 2026).
+
+The investment thesis centers on ARCC's transformation following Egypt's 2025 cement supply inflection[cite: 2, 3]. Driven by an integrated Suez maritime footprint, aggressive alternative fuel substitution, disciplined fixed-cost dilution, and export flexibility, ARCC has evolved beyond cyclical commodity dependence into an agile, cash-generative industrial platform.
+
+---
+
+## Key Investment Pillars
 
 ```text
-                 ┌──────────────────────────────────────────┐
-                 │        ARABIAN CEMENT (ARCC.CA)          │
-                 │                  BUY                     │
-                 └────────────────────┬─────────────────────┘
-                                      │
-       ┌──────────────────────────────┼──────────────────────────────┐
-       ▼                              ▼                              ▼
-┌──────────────────┐          ┌──────────────────┐          ┌──────────────────┐
-│     Pillar 1:    │          │     Pillar 2:    │          │     Pillar 3:    │
-│ Volume Recovery  │          │ Cost & Margin     │          │ Export Optionality│
-│ & Operating      │          │ Expansion        │          │                  │
-│ Leverage         │          │                  │          │                  │
-└────────┬─────────┘          └────────┬─────────┘          └────────┬─────────┘
-         │                             │                             │
-         ├─ Higher utilization         ├─ Energy efficiency          ├─ International exposure
-         ├─ Stronger demand            ├─ Alternative fuel use       ├─ FX-linked revenues
-         ├─ Incremental volume         ├─ Lower cost intensity       └─ Demand diversification
-         └─ Fixed-cost absorption      └─ Margin expansion
-
+                     ┌──────────────────────────────────────────┐
+                     │       ARABIAN CEMENT (EGX: ARCC)         │
+                     │             RECOMMENDATION: BUY          │
+                     │      TP: EGP 124.00 | UPSIDE: +69%       │
+                     └────────────────────┬─────────────────────┘
+                                          │
+         ┌────────────────────────────────┼────────────────────────────────┐
+         ▼                                ▼                                ▼
+┌─────────────────┐             ┌──────────────────┐             ┌──────────────────┐
+│    Pillar 1:    │             │    Pillar 2:     │             │    Pillar 3:     │
+│ Volume Recovery │             │ Cost Efficiency  │             │ Export Platform  │
+│  & Scale O-Lev  │             │ & Margin Defense │             │  & Hard FX Hedge │
+└────────┬────────┘             └────────┬─────────┘             └────────┬─────────┘
+         │                               │                                │
+         ├─ High Kiln Utilization (>97%) ├─ TSR Ramp: 20% -> 55%          ├─ Strategic Suez Maritime Hub
+         ├─ 5.0 Mt Capacity Exploitation ├─ COGS per Ton Decoupling       ├─ ~48% Sales Volume Exported
+         ├─ Fixed Overhead Dilution      ├─ Energy Mix Agility (RDF/Agri) ├─ 25+ International Destinations
+         └─ Sustainable Volume Capture   └─ Gross Margin Resilient (~45%) └─ Natural USD / Hard FX Inflows
 
 
