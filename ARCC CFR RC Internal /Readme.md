@@ -1,6 +1,14 @@
 # Equity Research Report: Arabian Cement Company (ARCC.CA)
 Last Updated: September 2026
 
+![EGX Ticker](https://img.shields.io/badge/EGX-ARCC.CA-blue.svg)
+![Recommendation](https://img.shields.io/badge/Recommendation-BUY-brightgreen.svg)
+![Target Price](https://img.shields.io/badge/Target_Price-EGP_124.00-success.svg)
+![Upside](https://img.shields.io/badge/Upside-+69%25-green.svg)
+![Valuation Methodology](https://img.shields.io/badge/Methodology-DCF_%7C_P%2FE_%7C_EV%2FEBITDA-orange.svg)
+![ESG Rating](https://img.shields.io/badge/MSCI_ESG_IAS-AA_(7.2%2F10)-teal.svg)
+![CFA Institute Research Challenge](https://img.shields.io/badge/CFA_Institute-Research_Challenge-gold.svg)
+
 ## Executive Summary
 
 This repository contains the comprehensive equity research coverage and financial valuation of **Arabian Cement Company (ARCC.CA)**, prepared as part of the **CFA Institute Research Challenge**.
